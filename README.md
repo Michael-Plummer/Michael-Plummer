@@ -1,7 +1,7 @@
 # Hi 👋
 I'm a Stage 2 UG Student of Newcastle University studying Bsc Computer Science.
 
-Here are some things to judge me on
+Heres something to judge me on
 ---
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mikey_plummer&unique={true|1|on|yes}&width=1000)
