@@ -1,5 +1,5 @@
 # Hi 👋
-I'm a Stage 2 UG Student of Newcastle University studying Bsc Computer Science.
+I'm a Stage 3 UG Student of Newcastle University studying Bsc Computer Science.
 
 Heres something to judge me on
 ---
